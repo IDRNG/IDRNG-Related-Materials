@@ -2,6 +2,10 @@
 
 This page simply groups pointers to IDRNG's and IDRNG-related documents, papers, slides, and etc. Note that this is not the official repository of such materials.
 
+> We have provided local versions of these [papers](./papers/) and [slides](./slides/).
+> You can access them through the links above.
+> For more detailed information, please refer to the links below.
+
 | Material | Meeting | Description |
 |----------|--------------|-------------|
 | slides |APNIC 60| [The Key Challenges and Technological Innovations in BGP](https://conference.apnic.net/60/assets/presentation-files/757faddd-5192-441c-8f01-21b1a9e1f96c.pdf) |
