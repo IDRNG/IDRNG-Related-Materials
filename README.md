@@ -15,55 +15,31 @@ This page simply groups pointers to IDRNG's and IDRNG-related documents, papers,
 ![Routing4AI](https://img.shields.io/badge/Routing4AI-%2328A745?style=flat "Routing for AI")
 ![IoA](https://img.shields.io/badge/IoA-%23FD7E14?style=flat "Multi-Agent Routing / Agentic Internet")
 ![IDP](https://img.shields.io/badge/IDP-%23E83E8C?style=flat "In-Band Intelligent Data Plane")
+![SCION](https://img.shields.io/badge/SCION-%3E83E8C2?style=flat "Scalability, Control, and Isolation On Next-Generation Networks")
 -->
 
 
-- Leveraging Open-Source Intelligence for Automated BGP Incident Attribution via LLM-based AI Agents
-  - ![IDRSEC](https://img.shields.io/badge/IDRSEC-%23DC3545?style=flat "Inter-Domain Forwarding-Intent Security & Assurance") ![AI4Routing](https://img.shields.io/badge/AI4Routing-%23007BFF?style=flat "AI for Routing")
-  - APNIC 60
-  - Links: <kbd>[slides](https://conference.apnic.net/60/assets/presentation-files/e6d6f2e6-0a8d-49c2-ae10-6df4108f3504.pdf)</kbd> <kbd>[YouTube](https://youtu.be/P_Pui1qBQGs?t=2384)</kbd>
-
-- Understanding the Stealthy BGP Hijacking Risks in the ROV Era
-  - ![IDRSEC](https://img.shields.io/badge/IDRSEC-%23DC3545?style=flat "Inter-Domain Forwarding-Intent Security & Assurance") ![AI4Routing](https://img.shields.io/badge/AI4Routing-%23007BFF?style=flat "AI for Routing")
-  - APNIC 60
-  - Links: <kbd>[slides](https://conference.apnic.net/60/assets/presentation-files/47c6d105-7316-4959-8d85-fb566ee10eeb.pdf)</kbd> <kbd>[YouTube](https://youtu.be/mFcH38Goc7U?t=97)</kbd>
-
-- The Key Challenges and Technological Innovations in BGP
-  - ![IDRSEC](https://img.shields.io/badge/IDRSEC-%23DC3545?style=flat "Inter-Domain Forwarding-Intent Security & Assurance") ![AI-Native](https://img.shields.io/badge/AI--Native-%236F42C1?style=flat "AI-Native Routing")
-  - APNIC 60
-  - Links: <kbd>[slides](https://conference.apnic.net/60/assets/presentation-files/757faddd-5192-441c-8f01-21b1a9e1f96c.pdf)</kbd> <kbd>[YouTube](https://youtu.be/RQa7nHvUFE0?t=3237)</kbd>
-
-- FENIX: Enabling In-Network DNN Inference with FPGA-Enhanced Programmable Switches
-  - ![IDP](https://img.shields.io/badge/IDP-%23E83E8C?style=flat "In-Band Intelligent Data Plane")
-  - NSDI 26
-  - Links: <kbd>[paper](https://arxiv.org/abs/2507.14891)</kbd>
-
-- Understanding the Stealthy BGP Hijacking Risk in the ROV Era
-  - ![IDRSEC](https://img.shields.io/badge/IDRSEC-%23DC3545?style=flat "Inter-Domain Forwarding-Intent Security & Assurance") ![AI4Routing](https://img.shields.io/badge/AI4Routing-%23007BFF?style=flat "AI for Routing")
-  - NDSS 26
-  - Links: <kbd>[paper](https://drive.google.com/file/d/1894aGcP3e_ZUu5APzj4R7dIft7bjs5Op/view?usp=drive_link)</kbd> <kbd>[code](https://github.com/yhchen-tsinghua/stealthy-bgp-hijacking)</kbd>
-
-- TrafficFormer: An Efficient Pre-trained Model for Traffic Data
-  - ![AI4Routing](https://img.shields.io/badge/AI4Routing-%23007BFF?style=flat "AI for Routing")
-  - IEEE S&P 2025
-  - Links: <kbd>[paper](http://www.thucsnet.com/wp-content/papers/guangmeng_sp2025.pdf)</kbd>
-
-- Pegasus: A Universal Framework for Scalable Deep Learning Inference on the Dataplane
-  - ![IDP](https://img.shields.io/badge/IDP-%23E83E8C?style=flat "In-Band Intelligent Data Plane")
-  - Sigcomm 2025
-  - Links: <kbd>[paper](https://arxiv.org/abs/2506.05779)</kbd>
-
-- Learning with Semantics: Towards a Semantics-Aware Routing Anomaly Detection System
-  - ![IDRSEC](https://img.shields.io/badge/IDRSEC-%23DC3545?style=flat "Inter-Domain Forwarding-Intent Security & Assurance") ![AI4Routing](https://img.shields.io/badge/AI4Routing-%23007BFF?style=flat "AI for Routing")
-  - USENIX Security 24 ***Distinguished Paper Award & Internet Defense Prize**
-  - Links: <kbd>[paper](https://www.usenix.org/conference/usenixsecurity24/presentation/chen-yihao)</kbd> <kbd>[YouTube](https://youtu.be/vBINNuzvlYk)</kbd>
-
-- Brain-on-Switch: Towards Advanced Intelligent Network Data Plane via NN-Driven Traffic Analysis at Line-Speed
-  - ![IDP](https://img.shields.io/badge/IDP-%23E83E8C?style=flat "In-Band Intelligent Data Plane")
-  - NSDI 24
-  - Links: <kbd>[paper](https://www.usenix.org/conference/nsdi24/presentation/yan)</kbd> <kbd>[YouTube](https://youtu.be/8lucgvrW-vw)</kbd>
-
-- An Efficient Design of Intelligent Network Data Plane
-  - ![IDP](https://img.shields.io/badge/IDP-%23E83E8C?style=flat "In-Band Intelligent Data Plane")
-  - USENIX Security 23 ***Distinguished Paper Award Winner**
-  - Links: <kbd>[paper](https://www.usenix.org/conference/usenixsecurity23/presentation/zhou-guangmeng)</kbd> <kbd>[YouTube](https://youtu.be/f8KxH9RVlkw)</kbd>
+| Title | Category | Meeting / Location | Links |
+|------|------|-----------|------|
+| Leveraging Open-Source Intelligence for Automated BGP Incident Attribution via LLM-based AI Agents | ![IDRSEC](https://img.shields.io/badge/IDRSEC-%23DC3545?style=flat "Inter-Domain Forwarding-Intent Security & Assurance") ![AI4Routing](https://img.shields.io/badge/AI4Routing-%23007BFF?style=flat "AI for Routing") | APNIC 60 | <kbd>[slides](https://conference.apnic.net/60/assets/presentation-files/e6d6f2e6-0a8d-49c2-ae10-6df4108f3504.pdf)</kbd>  <kbd>[YouTube](https://youtu.be/P_Pui1qBQGs?t=2384)</kbd> |
+| Understanding the Stealthy BGP Hijacking Risks in the ROV Era | ![IDRSEC](https://img.shields.io/badge/IDRSEC-%23DC3545?style=flat "Inter-Domain Forwarding-Intent Security & Assurance") ![AI4Routing](https://img.shields.io/badge/AI4Routing-%23007BFF?style=flat "AI for Routing") | APNIC 60 | <kbd>[slides](https://conference.apnic.net/60/assets/presentation-files/47c6d105-7316-4959-8d85-fb566ee10eeb.pdf)</kbd>  <kbd>[YouTube](https://youtu.be/mFcH38Goc7U?t=97)</kbd> |
+| The Key Challenges and Technological Innovations in BGP | ![IDRSEC](https://img.shields.io/badge/IDRSEC-%23DC3545?style=flat "Inter-Domain Forwarding-Intent Security & Assurance") ![AI-Native](https://img.shields.io/badge/AI--Native-%236F42C1?style=flat "AI-Native Routing") | APNIC 60 | <kbd>[slides](https://conference.apnic.net/60/assets/presentation-files/757faddd-5192-441c-8f01-21b1a9e1f96c.pdf)</kbd>  <kbd>[YouTube](https://youtu.be/RQa7nHvUFE0?t=3237)</kbd> |
+| FENIX: Enabling In-Network DNN Inference with FPGA-Enhanced Programmable Switches | ![IDP](https://img.shields.io/badge/IDP-%23E83E8C?style=flat "In-Band Intelligent Data Plane") | NSDI 26 | <kbd>[paper](https://arxiv.org/abs/2507.14891)</kbd> |
+| Understanding the Stealthy BGP Hijacking Risk in the ROV Era | ![IDRSEC](https://img.shields.io/badge/IDRSEC-%23DC3545?style=flat "Inter-Domain Forwarding-Intent Security & Assurance") ![AI4Routing](https://img.shields.io/badge/AI4Routing-%23007BFF?style=flat "AI for Routing") | NDSS 26 | <kbd>[paper](https://drive.google.com/file/d/1894aGcP3e_ZUu5APzj4R7dIft7bjs5Op/view)</kbd>  <kbd>[code](https://github.com/yhchen-tsinghua/stealthy-bgp-hijacking)</kbd> |
+| TrafficFormer: An Efficient Pre-trained Model for Traffic Data | ![AI4Routing](https://img.shields.io/badge/AI4Routing-%23007BFF?style=flat "AI for Routing") | IEEE S&P 2025 | <kbd>[paper](http://www.thucsnet.com/wp-content/papers/guangmeng_sp2025.pdf)</kbd> |
+| Pegasus: A Universal Framework for Scalable Deep Learning Inference on the Dataplane | ![IDP](https://img.shields.io/badge/IDP-%23E83E8C?style=flat "In-Band Intelligent Data Plane") | Sigcomm 2025 | <kbd>[paper](https://arxiv.org/abs/2506.05779)</kbd> |
+| Learning with Semantics: Towards a Semantics-Aware Routing Anomaly Detection System 🏆 | ![IDRSEC](https://img.shields.io/badge/IDRSEC-%23DC3545?style=flat "Inter-Domain Forwarding-Intent Security & Assurance") ![AI4Routing](https://img.shields.io/badge/AI4Routing-%23007BFF?style=flat "AI for Routing") | USENIX Security 24<br>***Distinguished Paper Award & Internet Defense Prize*** | <kbd>[paper](https://www.usenix.org/conference/usenixsecurity24/presentation/chen-yihao)</kbd>  <kbd>[YouTube](https://youtu.be/vBINNuzvlYk)</kbd> |
+| Brain-on-Switch: Towards Advanced Intelligent Network Data Plane via NN-Driven Traffic Analysis at Line-Speed | ![IDP](https://img.shields.io/badge/IDP-%23E83E8C?style=flat "In-Band Intelligent Data Plane") | NSDI 24 | <kbd>[paper](https://www.usenix.org/conference/nsdi24/presentation/yan)</kbd>  <kbd>[YouTube](https://youtu.be/8lucgvrW-vw)</kbd> |
+| An Efficient Design of Intelligent Network Data Plane 🏆 | ![IDP](https://img.shields.io/badge/IDP-%23E83E8C?style=flat "In-Band Intelligent Data Plane") | USENIX Security 23<br>***Distinguished Paper Award Winner*** | <kbd>[paper](https://www.usenix.org/conference/usenixsecurity23/presentation/zhou-guangmeng)</kbd>  <kbd>[YouTube](https://youtu.be/f8KxH9RVlkw)</kbd> |
+| RSpec: Unveiling Global ROV Deployments and Dependencies in the Post-ROV Era | ![IDRSEC](https://img.shields.io/badge/IDRSEC-%23DC3545?style=flat "Inter-Domain Forwarding-Intent Security & Assurance") | IMC 26 | TBD |
+| The Threat Landscape of IP Leasing in the RPKI Era | ![IDRSEC](https://img.shields.io/badge/IDRSEC-%23DC3545?style=flat "Inter-Domain Forwarding-Intent Security & Assurance") | Oakland 26 | <kbd>[paper](https://weitongli.com/publications/papers/li-2026-hijack.pdf)</kbd> |
+| Demystifying RPKI-Invalid Prefixes: Hidden Causes and Security Risks | ![IDRSEC](https://img.shields.io/badge/IDRSEC-%23DC3545?style=flat "Inter-Domain Forwarding-Intent Security & Assurance") | NDSS 26 | <kbd>[paper](https://weitongli.com/publications/papers/li-2026-demystifying.pdf)</kbd> |
+| RoVista: Measuring and Understanding the Route Origin Validation (ROV) in RPKI | ![IDRSEC](https://img.shields.io/badge/IDRSEC-%23DC3545?style=flat "Inter-Domain Forwarding-Intent Security & Assurance") | IMC 23 | <kbd>[paper](https://weitongli.com/publications/papers/li-2023-rov.pdf)</kbd> |
+| ImpROV: Measurement and Practical Mitigation of Collateral Damage of RPKI Route Origin Validation | ![IDRSEC](https://img.shields.io/badge/IDRSEC-%23DC3545?style=flat "Inter-Domain Forwarding-Intent Security & Assurance") | Security 25 | <kbd>[paper](https://weitongli.com/publications/papers/li-2023-rov.pdf)</kbd> |
+| Inter-domain Routing with Extensible Criteria | ![IDRSEC](https://img.shields.io/badge/IDRSEC-%23DC3545?style=flat "Inter-Domain Forwarding-Intent Security & Assurance") ![SCION](https://img.shields.io/badge/SCION-%3E83E8C2?style=flat "Scalability, Control, and Isolation On Next-Generation Networks") | SigComm 2025 | <kbd>[paper](https://scionproto-contrib.github.io/publications/pdfs/2025/2025_IREC.pdf)</kbd> |
+| Deployment and Scalability of an Inter-Domain Multi-Path Routing Infrastructure 🏆 | ![IDRSEC](https://img.shields.io/badge/IDRSEC-%23DC3545?style=flat "Inter-Domain Forwarding-Intent Security & Assurance") ![SCION](https://img.shields.io/badge/SCION-%3E83E8C2?style=flat "Scalability, Control, and Isolation On Next-Generation Networks") | CoNEXT 21 <br> ***Best Paper Award*** | <kbd>[paper](https://scionproto-contrib.github.io/publications/pdfs/2021/2021_conext_deployment.pdf)</kbd> |
+| Towards an API for the Path-Aware Internet | ![IDRSEC](https://img.shields.io/badge/IDRSEC-%23DC3545?style=flat "Inter-Domain Forwarding-Intent Security & Assurance") ![SCION](https://img.shields.io/badge/SCION-%3E83E8C2?style=flat "Scalability, Control, and Isolation On Next-Generation Networks") | SigComm 2021 | <kbd>[paper](https://doi.org/10.1145/3472727.3472808)</kbd> |
+| MONDRIAN: Comprehensive Inter-domain Network Zoning Architecture | ![IDRSEC](https://img.shields.io/badge/IDRSEC-%23DC3545?style=flat "Inter-Domain Forwarding-Intent Security & Assurance") ![SCION](https://img.shields.io/badge/SCION-%3E83E8C2?style=flat "Scalability, Control, and Isolation On Next-Generation Networks") | NDSS 2021 | <kbd>[paper](https://scionproto-contrib.github.io/publications/pdfs/2021/ndss21_mondrian.pdf)</kbd> |
+| SCIONLab: A Next-Generation Internet Testbed 🏆 | ![IDRSEC](https://img.shields.io/badge/IDRSEC-%23DC3545?style=flat "Inter-Domain Forwarding-Intent Security & Assurance") ![SCION](https://img.shields.io/badge/SCION-%3E83E8C2?style=flat "Scalability, Control, and Isolation On Next-Generation Networks") | ICNP 2020 <br> ***Best Paper Award*** | <kbd>[paper](https://scionproto-contrib.github.io/publications/pdfs/2020/icnp2020_scionlab.pdf)</kbd> |
+| EPIC: Every Packet Is Checked in the Data Plane of a Path-Aware Internet | ![IDRSEC](https://img.shields.io/badge/IDRSEC-%23DC3545?style=flat "Inter-Domain Forwarding-Intent Security & Assurance") ![SCION](https://img.shields.io/badge/SCION-%3E83E8C2?style=flat "Scalability, Control, and Isolation On Next-Generation Networks") | USENIX Security 2020 | <kbd>[paper](https://scionproto-contrib.github.io/publications/pdfs/2020/2020-EPIC.pdf)</kbd> |
+| SCION: Scalability, Control, and Isolation On Next-Generation Networks | ![IDRSEC](https://img.shields.io/badge/IDRSEC-%23DC3545?style=flat "Inter-Domain Forwarding-Intent Security & Assurance") ![SCION](https://img.shields.io/badge/SCION-%3E83E8C2?style=flat "Scalability, Control, and Isolation On Next-Generation Networks") | IEEE S&P 2011 | <kbd>[paper](https://scionproto-contrib.github.io/publications/pdfs/2011/2011-SCION.pdf)</kbd> |
